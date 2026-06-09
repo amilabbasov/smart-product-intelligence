@@ -1,0 +1,19 @@
+# Data Wrangling & Core Utilities
+pandas
+numpy
+requests
+tqdm
+
+# Storage Engines (Required for Pandas Parquet support)
+pyarrow
+
+# Machine Learning & Ecosystem
+scikit-learn
+datasets
+
+# Computer Vision & Image Processing
+Pillow
+torchvision
+
+# Deep Learning Framework
+torch
